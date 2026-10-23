@@ -6,12 +6,12 @@ var website_name = "top up Bazar ";
 // =======================================================
 // TELEGRAM CHANNEL LINK
 // =======================================================
-var telegram_channel_link = "telegram channel link";
+var telegram_channel_link = "https://whatsapp.com/channel/0029Vb8q77b2kNFiHkOTuL3N";
 
 // =======================================================
 // TELEGRAM GROUP LINK
 // =======================================================
-var telegram_group_link = "telegram group link";
+var telegram_group_link = "https://whatsapp.com/channel/0029Vb8q77b2kNFiHkOTuL3N";
 
 // =======================================================
 // YOUTUBE CHANNEL LINK
@@ -21,6 +21,6 @@ var youtube_channel_link = "YouTube channel link";
 // =======================================================
 // NOTIFICATION TEXT
 // =======================================================
-var notification_text = `সবথেকে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
+var notification_text = `বাংলাদেশে সবচেয়ে কম দামে টপ করার জন্য সেরা ওয়েবসাইট
 ১০০% বিশ্বস্ত ও দ্রুত ডেলিভারিতে
-অর্ডার করুন নিশ্চিন্তে ♥️`;
+অর্ডার করুন নিশ্চিন্তে ♥️🥰`;
