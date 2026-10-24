@@ -4,7 +4,7 @@
 var website_name = "top up Bazar ";
 
 // =======================================================
-// TELEGRAM CHANNEL LINK
+// TELEGRAM CHANNEL link 01337434921
 // =======================================================
 var telegram_channel_link = "https://whatsapp.com/channel/0029Vb8q77b2kNFiHkOTuL3N";
 
